@@ -12,16 +12,11 @@
 
 ## **动画主题曲**  
   **OP：** 《蓝书签》（青い栞）  
-  **ED：** 《Secret Base ~你给我的所有~》（Secret Base ~君がくれたもの~） 
+  **ED：** 《Secret Base 你给我的所有》（Secret Base 君がくれたもの） 
 
-[Link](url) and ![Image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508259322806&di=b6eac90eb8aeb4051b2ddf0e31bffc18&imgtype=0&src=http%3A%2F%2Fyzhtml01.book118.com%2F2016%2F11%2F27%2F19%2F45710191%2F1.files%2Ffile0001.jpeg)
+![我们是超和平Busters](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508345059143&di=201a87009dd604d0f330e046b5555102&imgtype=0&src=http%3A%2F%2Fcdnq.duitang.com%2Fuploads%2Fitem%2F201505%2F01%2F20150501121757_QUazH.thumb.700_0.jpeg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suwhite/suwhite.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[**了解更多>>**](https://baike.baidu.com/item/%E6%88%91%E4%BB%AC%E4%BB%8D%E6%9C%AA%E7%9F%A5%E9%81%93%E9%82%A3%E5%A4%A9%E6%89%80%E7%9C%8B%E8%A7%81%E7%9A%84%E8%8A%B1%E7%9A%84%E5%90%8D%E5%AD%97%E3%80%82/390746?fr=aladdin&fromid=4704975&fromtitle=%E6%9C%AA%E9%97%BB%E8%8A%B1%E5%90%8D). 
